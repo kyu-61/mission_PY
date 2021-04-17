@@ -11,3 +11,13 @@
       <li><p>Learned about variables</p></li>
       <li><p>learned abut basic string operations</p></li>
       <li><p>Built a band name generator</p></li>
+    </ul>
+  </div>
+  <div class="day2">
+    <p> DAY - 2 ( Apr 17,2021)</p>
+    <ul>
+      <li><p>Learned about string methods<p></li>
+      <p></p>
+      <p> Couldn't hit my checklist due to some reasons. Will complete the rest by tomorrow.</p>
+    </ul>
+  </div>
