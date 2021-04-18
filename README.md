@@ -21,3 +21,17 @@
       <p> Couldn't hit my checklist due to some reasons. Will complete the rest by tomorrow.</p>
     </ul>
   </div>
+  <div class="day3">
+    <p> DAY - 3 ( Apr 18,2021)</p>
+    <ul>
+      <li><p>Learned about Data Types<p></li>
+      <li><p>Learned about TypeError , Type Conversion and Type Checking<p></li>
+      <li><p>Learned about Operators<p></li>
+      <li><p>Built 2 projects<p>
+        <ul>
+          <li><p> BMI calculator<p></li>
+          <li><p> Tips Calculator<p></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
