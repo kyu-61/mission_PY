@@ -13,6 +13,8 @@ def banner():
             | | | (_| | | | | (_| | (_) | | | | | |_____| (_| |  __/ | | |
             |_|  \__,_|_| |_|\__,_|\___/|_| |_| |_|      \__, |\___|_| |_|
                                                          |___/            
+                                                         
+                               linkedin : https://www.linkedin.com/in/vijay-balaji-m/
     """ % (R))
     
 banner()        
@@ -38,4 +40,3 @@ if name and fav and pet_name != '':
     print(" %s-----> %s{}{}{}{}{}{}{} %sis your band name".format(a,b,c,n,m,l,rand) %(Y,B,Y))
 else:
     print (" you've forgot to enter your inputs")
-
