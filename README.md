@@ -53,6 +53,6 @@
       <li><p>📌 Learned about appending items to list and nested lists<p></li>
       <li><p>📌 Learned about IndexError<p></li>
       <li><p>📌 Did an exercise called Banker Roulette<p></li>
-      <li><p>📌 Day4 Project : #rock_paper_scissors<p></li>
+      <li><p>📌 Day5 Project : #rock_paper_scissors<p></li>
      </ul>
   </div>
