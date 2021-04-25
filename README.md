@@ -56,3 +56,14 @@
       <li><p>📌 Day5 Project : #rock_paper_scissors<p></li>
      </ul>
   </div>
+   <div class="day6">
+    <p> DAY - 6 ( Apr 21,2021)</p>
+    <ul>
+      <li><p>📌 Learned about for loop with Python Lists and range ()<p></li>
+      <li><p>📌 Did some exercises :
+                    1. High score 
+                    2. adding even numbers
+                    3. average height<p></li>
+      <li><p>📌 Day6 Project : Password Generator<p></li>
+     </ul>
+  </div>
